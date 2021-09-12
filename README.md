@@ -1,2 +1,2 @@
-# p5-Calver
+# CalVer
 Versioning gets better with time
